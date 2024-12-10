@@ -1,3 +1,8 @@
+https://docs.google.com/spreadsheets/d/1os5J39Eiuj1FAeWeGWCYS8i3Ovp5BXRGCaNcuBfIloA/edit?gid=233221097#gid=233221097
+
+
+
+
 #include <stdio.h>
 
 void main(){
